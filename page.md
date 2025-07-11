@@ -1,11 +1,12 @@
-# CO-OPS Repository Template
+# OFS in Development
 
 # Overview
 
 For additional information, contact:
-[First & Last Name],
 NOAA Center for Operational Oceanographic Products and Services,
 [Email]
+
+##Upcoming OFS
 
 ## NOAA Open Source Disclaimer
 
